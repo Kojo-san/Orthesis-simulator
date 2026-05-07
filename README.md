@@ -1,4 +1,4 @@
-# MiniDesign Orthesis - TP4 LOG2400  
+# MiniDesign Orthesis Simulator - TP4 LOG2400  
 
 ## Diagramme de classes
 ![Diagramme de classes MiniDesign](docs/diagramme-classes.png)
