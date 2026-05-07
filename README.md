@@ -1,5 +1,10 @@
 # MiniDesign - TP4 LOG2400  
 
+## Diagramme de classes
+![Diagramme de classes MiniDesign](docs/diagramme-classes.png)
+
+*Fig. 1. Diagramme de classes MiniDesign.*
+
 ## Compilation
    ```bash
    g++ -std=c++17 *.cpp -o MiniDesign.exe
