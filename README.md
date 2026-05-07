@@ -19,6 +19,12 @@ Le but du programme est de construire progressivement une orthèse ASCII à part
    ```bash
  ./MiniDesign.exe "(5,0) (14,16) (23,0) (0,8) (0,0) (28,8)"
   ```
+
+## Aperçu d'exécution
+![Aperçu d'exécution de MiniDesign](docs/apercu-execution.png)
+
+*Fig. 2. Exemple d'affichage de l'orthèse ASCII.*
+
 Le programme accepte une liste de points (x,y) séparés par des espaces.
 Ensuite, utilisez les commandes interactives :
 * a : afficher la liste des points et nuages
